@@ -22,7 +22,7 @@ There are two primary approaches to handling concurrency:
   - Behavior depends on the database; if the isolation level is set to read committed, and also if the database refreshes the row once someone commits the transaction then it's fine to use it.
 
 
-What i choose was first option
+What i choose was first option(Pessimistic Lock)
 
 # Demo
 ![Demo](demo/demo.gif)
