@@ -33,15 +33,6 @@ Check high quality demo [here](/demo/Demo.mp4)
 
 Results are [here](/simulation/results.txt).
 
-# Technical things
-Database schema is available [here](/database-schema.sql).
-
-Thunder Client is [here](/airLineThunderClient.json).
-
-## Tech Stack
-- NodeJs
-- Express
-- Postgres
 
 **Incomplete Features:**
 - I didn't use the username at all. If you feel it's redundant, you can make some changes and remove it.
